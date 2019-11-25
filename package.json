@@ -1,0 +1,22 @@
+{
+  "name": "First-nodewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "star": " node src ",
+    "dev": " nodemon src "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
